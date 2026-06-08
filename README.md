@@ -21,7 +21,7 @@ A simple fitness coach landing page built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-Add your GitHub Pages link here.
+https://sahil-op29.github.io/gs-fitcoach-demo/
 
 ## Image Notice
 
